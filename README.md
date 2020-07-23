@@ -12,3 +12,7 @@ in the index the analayzer that we used is a custom one we made the standard ana
 like porterstemmer lowercasing ,casefolding .
 the retrieval is for the best 20 docouments 
 the score is the VSM&boolean model .
+
+
+-------------------------------------------------------------------
+the project have 2 directories as data and index , feel free to change them to your liking 
